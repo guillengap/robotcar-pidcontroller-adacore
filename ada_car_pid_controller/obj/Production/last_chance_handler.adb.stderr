@@ -1,0 +1,3 @@
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\boards\stm32_common\stm32f407disco\stm32-board.adb: In function 'Last_Chance_Handler.Last_Chance_Handler':
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-gpio.adb:226:4: warning: inlining failed in call to 'STM32.GPIO.CLEAR': call is unlikely and code size would grow [-Winline]
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\boards\stm32_common\stm32f407disco\stm32-board.adb:57:7: note: called from here

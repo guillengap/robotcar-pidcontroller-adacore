@@ -1,0 +1,24 @@
+[GENERATED OBJECT FILE]
+b__ada_car_pid_controller.o
+[PROJECT FILES]
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\ada_car_pid_controller\ada_car_pid_controller.gpr
+20200118024958
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\boards\stm32f407_discovery\stm32f407_discovery_full.gpr
+20191213151850
+[BOUND OBJECT FILES]
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\ada_car_pid_controller\obj\Production\last_chance_handler.o
+C:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\ada_car_pid_controller\obj\Production\ada_car_pid_controller.o
+[GENERATED SOURCE FILES]
+b__ada_car_pid_controller.ads
+b__ada_car_pid_controller.adb
+b__ada_car_pid_controller.ali
+[RESULTING OPTIONS]
+-LC:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\ada_car_pid_controller\obj\Production\
+-LC:\Users\Jupiter\Documents\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\ada_car_pid_controller\obj\Production\
+-LC:\Users\Jupiter\Documents\Ada_Drivers_Library-master\examples\shared\common\
+-LC:\Users\Jupiter\Documents\Ada_Drivers_Library-master\boards\stm32f407_discovery\obj\full_lib_Debug\
+-LC:\gnat\2019-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f4\adalib\
+-static
+-static-libgcc
+C:\gnat\2019-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f4\adalib\libgnarl.a
+C:\gnat\2019-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f4\adalib\libgnat.a
